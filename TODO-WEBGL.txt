@@ -1,0 +1,10 @@
+Para poner en webgl: 
+
+- añadir postprocessing a todos los renderers
+- cambiar quality a ultra
+- añadir nueva template build
+
+------to do para que funcione en la nueva template:
+
+POR QUÉ TODAVÍA SE PUEDEN MOVER????? --> quitar box collider
+El diario sale bugueado
