@@ -31570,7 +31570,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 4.015625
+  orthographic size: 3.984375
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -35417,9 +35417,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   normal_sound: {fileID: 8300000, guid: 6b989d93eaa549347b37f88280ad3f58, type: 3}
-  creepy_sound: {fileID: 8300000, guid: aa49abfca4908e54fa3694e0370180ce, type: 3}
+  creepy_sound: {fileID: 8300000, guid: 63246fdbd2021f7409ace2bf99133d96, type: 3}
   volume_normal: 0.7
-  volume_creepy: 1
+  volume_creepy: 0.7
 --- !u!1 &995801018
 GameObject:
   m_ObjectHideFlags: 0

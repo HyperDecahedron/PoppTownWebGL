@@ -6,5 +6,7 @@ Para poner en webgl:
 
 ------to do para que funcione en la nueva template:
 
-POR QUÉ TODAVÍA SE PUEDEN MOVER????? --> quitar box collider
-El diario sale bugueado
+make canvas background black bigger!!!
+
+know Bika's resolution!!
+3024 x 1964

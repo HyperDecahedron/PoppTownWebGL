@@ -1453,7 +1453,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 4.109375
+  orthographic size: 3.984375
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -13069,7 +13069,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 90
-  m_Sprite: {fileID: 21300000, guid: 3eeb388031c273c4abfde7e9df844645, type: 3}
+  m_Sprite: {fileID: 21300000, guid: eb3c7e2f24b015247a9cba4ae1598874, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -18963,9 +18963,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   normal_sound: {fileID: 8300000, guid: a0b29884f88217d4cb961f11f8b9217b, type: 3}
-  creepy_sound: {fileID: 8300000, guid: aa49abfca4908e54fa3694e0370180ce, type: 3}
+  creepy_sound: {fileID: 8300000, guid: 63246fdbd2021f7409ace2bf99133d96, type: 3}
   volume_normal: 0.2
-  volume_creepy: 1
+  volume_creepy: 0.7
 --- !u!1 &1696613645
 GameObject:
   m_ObjectHideFlags: 0
@@ -52817,7 +52817,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!483693784 &1581923975661927034
 TilemapRenderer:
   m_ObjectHideFlags: 0
@@ -130215,7 +130215,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &6212389390838874821
 GameObject:
   m_ObjectHideFlags: 0
